@@ -3,6 +3,7 @@
 Only works on linux for now. (who uses windows anyways)
 <br />
 This project protects you'r eyes from burning by lowering you'r screen brightness when there is too much white on the screen.
+Project is still wip so to actually use it you must first run: <code>xrandr | grep " connected"</code> and replace the eDP-1-1 with the output.
 <br />
 <br />
 Before running install requirements.txt and run these commands:
