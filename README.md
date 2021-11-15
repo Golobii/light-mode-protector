@@ -1,5 +1,9 @@
 ### <span style="color:#87CEFA" >LIGHT MODE PROTECTOR</span>
 
+### BEST PROGRAM EVER
+#### FUCK YOU JUJE
+#### LIGHT MODE SUCKS DONG
+
 Only works on linux for now. (who uses windows anyways)
 <br />
 This project protects your eyes from burning by lowering your screen brightness when there is too much white on the screen.
